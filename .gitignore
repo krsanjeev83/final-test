@@ -1,8 +1,30 @@
+
+<<<<<<< HEAD
+file1.txt
+=======
+abc.txt
 my_password.txt
+<<<<<<< HEAD
 <<<<<<< HEAD
 Secret.txt
 
 =======
+=======
+file_sab
+sab_new.txt
+
+sanath.txt
+
+
+>>>>>>> 25430311a62344cf586dfea5d0650bf613a991a7
 my_keys.file
+
+file1.txt
+
 secretKeys.txt
+<<<<<<< HEAD
 >>>>>>> a519041d11bd368ff1df7d6fa94c9bde2a0e1e17
+=======
+
+>>>>>>> c71570b61e26002e75032e4668625ed5efe3c02e
+>>>>>>> 25430311a62344cf586dfea5d0650bf613a991a7
