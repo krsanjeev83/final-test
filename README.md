@@ -3,9 +3,16 @@ good morning
 hello world
 final-test
 Hello world
-<<<<<<< HEAD
+
 modified
+
+AKG
+updated text.
+Changed by Akshay.
+
+
 Changed by Daneshwari
 :wq
+
 Changes by sabarita
 Hello everyone
