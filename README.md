@@ -10,6 +10,11 @@ hello world
 final-test
 Hello world
 <<<<<<< HEAD
+Welcome to Sony
+I am fine
+
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 AKG
 updated text.
@@ -24,3 +29,4 @@ good afternoon SARD
 >>>>>>> 5876a6b2a8c2197034e024882b80efb58924e4b6
 =======
 >>>>>>> 488e3d06572b34d5eb044caf7dcafc3b75e38ded
+>>>>>>> c354da5cd14f2662f62a9448383a2357adb5ad53
