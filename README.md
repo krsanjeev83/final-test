@@ -1,4 +1,8 @@
-# final-test
+final-test
 Hello world
-
+<<<<<<< HEAD
+AKG
 updated text.
+=======
+Changes by sabarita
+>>>>>>> 4a6c7b6b5d84defb18a5895ff42f96f060757c32
