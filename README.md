@@ -16,6 +16,7 @@ final-test
 Hello world
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 modified
 
@@ -28,6 +29,12 @@ Changed by Akshay.
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+=======
+Newly modified!!!!!....
+
+
+=======
+>>>>>>> f141c974c0d24179849cb3a22d2d9c0b9ea3d5dc
 Welcome to Sony
 I am fine
 >>>>>>> 741d9705a0a3efb68b9476f4efdfd23855b37548
@@ -57,8 +64,12 @@ Changed by Daneshwari
 Changes by sabarita
 >>>>>>> 741d9705a0a3efb68b9476f4efdfd23855b37548
 good afternoon SARD
+<<<<<<< HEAD
+>>>>>>> c052868d34704cb697fbdd9f5834fd1def836b5f
+=======
 >>>>>>> 741d9705a0a3efb68b9476f4efdfd23855b37548
 =======
 MADHAN TJ
 CHanges made by me @12:47
 >>>>>>> a519041d11bd368ff1df7d6fa94c9bde2a0e1e17
+>>>>>>> 44e5b5a4309c8560ba49a142e663b8cb71eb6eec
