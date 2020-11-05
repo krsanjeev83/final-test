@@ -5,3 +5,5 @@ Samsung
 RealMe
 OnePlus
 Micromax
+Apple
+Sony
