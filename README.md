@@ -1,32 +1,18 @@
-<<<<<<< HEAD
 good morning
 # final-test
-<<<<<<< HEAD
+Changes done by Sanjeev
  hello hai
 updateddd
 changed by ramsy
-=======
 hello world
 final-test
 Hello world
-<<<<<<< HEAD
 Welcome to Sony
 I am fine
 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 AKG
 updated text.
 Changed by Akshay.
-=======
-=======
 Changed by Daneshwari
-:wq
->>>>>>> 7073fbdf6df39b959afa654811ba390851d6f334
 Changes by sabarita
 good afternoon SARD
->>>>>>> 5876a6b2a8c2197034e024882b80efb58924e4b6
-=======
->>>>>>> 488e3d06572b34d5eb044caf7dcafc3b75e38ded
->>>>>>> c354da5cd14f2662f62a9448383a2357adb5ad53
