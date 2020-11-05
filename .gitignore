@@ -1,3 +1,8 @@
 my_password.txt
+<<<<<<< HEAD
 Secret.txt
 
+=======
+my_keys.file
+secretKeys.txt
+>>>>>>> a519041d11bd368ff1df7d6fa94c9bde2a0e1e17
