@@ -10,18 +10,10 @@ changed by ramsy
 hello world
 final-test
 Hello world
-Newly modified!!!!!....
-
-
-=======
-Welcome to Sony
-I am fine
-
+modified
 AKG
 updated text.
 Changed by Akshay.
-Changed by Daneshwari
-Changes by sabarita
 good afternoon SARD
 MADHAN TJ
 CHanges made by me @12:47
