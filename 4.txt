@@ -1,2 +1,4 @@
+changes in master branch
+new
 changes 
 4 file
